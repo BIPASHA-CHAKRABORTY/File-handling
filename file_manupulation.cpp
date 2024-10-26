@@ -24,6 +24,7 @@ int main()
 	{
         cout << ch;
     }
+	 
     
     r.close();
 
